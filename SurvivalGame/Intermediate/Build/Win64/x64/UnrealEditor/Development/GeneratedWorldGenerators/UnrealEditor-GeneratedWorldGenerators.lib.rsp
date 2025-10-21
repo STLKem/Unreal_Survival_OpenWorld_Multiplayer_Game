@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GeneratedWorldGenerators.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeneratedWorldGenerators/PCH.GeneratedWorldGenerators.h.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeneratedWorldGenerators/GeneratedWorldGenerators.cpp.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeneratedWorldGenerators/PerModuleInline.gen.cpp.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeneratedWorldGenerators/Default.rc2.res"
+/OUT:"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Intermediate/Build/Win64/x64/UnrealEditor/Development/GeneratedWorldGenerators/UnrealEditor-GeneratedWorldGenerators.lib"

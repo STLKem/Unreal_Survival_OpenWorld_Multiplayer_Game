@@ -1,0 +1,63 @@
+# Unreal Engine — игнорируемые папки
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Rider и другие IDE
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+*.opensdf
+*.sdf
+*.suo
+
+# Rider project files
+Intermediate/ProjectFiles/.Rider/
+
+# Logs
+*.log
+*.dmp
+
+# Backups & autosaves
+*_Backup/
+*_Autosave/
+
+# Папки системы
+.DS_Store
+Thumbs.db
+
+# Unreal Engine temporary folders
+Binaries/...
+DerivedDataCache/...
+Intermediate/...
+Saved/...
+.vscode/...
+.rider/...
+.Rider/...
+
+# Crash reports
+Saved/Config/CrashReportClient/...
+
+# Backup
+*.tmp
+*.log
+*.vs
+
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.obj
+*.pch
+*.pdb
+*.idb
+*.sln
+*.vs/

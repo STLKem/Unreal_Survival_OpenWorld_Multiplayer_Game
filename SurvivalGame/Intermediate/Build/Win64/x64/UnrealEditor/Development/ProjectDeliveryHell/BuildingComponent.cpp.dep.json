@@ -1,0 +1,41 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\private\\buildingcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectdeliveryhell\\definitions.projectdeliveryhell.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\public\\buildingcomponent.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\buildingcomponent.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\public\\maincharacter.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\public\\maininteractinterface.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\maininteractinterface.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\ue_5.6\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\ue_5.6\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\maincharacter.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\public\\placingblockparent.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\public\\blocksinterface.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\blocksinterface.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\placingblockparent.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicsasset.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\physicsengine\\rigidbodyindexpair.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\physicsasset.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VoxelEditorDefault.cpp.obj": [
+			"ActorFactoryVoxelMeshImporter.gen.cpp.obj",
+			"ActorFactoryVoxelPlaceableItems.gen.cpp.obj",
+			"ActorFactoryVoxelWorld.gen.cpp.obj",
+			"VoxelEditorDefault.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"ActorFactoryVoxelPlaceableItems.cpp.obj",
+			"ActorFactoryVoxelWorld.cpp.obj",
+			"VoxelEditorDefaultModule.cpp.obj"
+		]
+	}
+}

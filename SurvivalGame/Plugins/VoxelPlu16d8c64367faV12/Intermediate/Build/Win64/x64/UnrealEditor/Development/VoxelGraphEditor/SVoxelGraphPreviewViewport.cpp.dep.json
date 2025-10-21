@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxelgrapheditor\\private\\preview\\svoxelgraphpreviewviewport.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\voxelgrapheditor\\definitions.voxelgrapheditor.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxelgrapheditor\\private\\preview\\svoxelgraphpreviewviewport.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\unrealed\\public\\seditorviewport.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\slate\\public\\widgets\\sviewport.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\unrealed\\public\\scommoneditorviewporttoolbarbase.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\unrealed\\public\\sviewporttoolbar.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\unrealed\\public\\ipreviewprofilecontroller.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\unrealed\\public\\viewporttoolbar\\unrealedviewporttoolbarcontext.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\unrealedviewporttoolbarcontext.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\scommoneditorviewporttoolbarbase.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxelgrapheditor\\public\\ivoxelgrapheditortoolkit.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeldefinitions.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeluserdefinitions.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\advancedpreviewscene\\public\\advancedpreviewscene.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\advancedpreviewscene\\public\\assetviewersettings.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\texturecube.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texturecube.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedpreviewscene\\uht\\assetviewersettings.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\slate\\sceneviewport.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\unrealed\\public\\unrealwidget.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

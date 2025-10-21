@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxelhelpers\\private\\voxelhelpersmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\voxelhelpers\\definitions.voxelhelpers.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxelhelpers\\public\\voxelhelpersmodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

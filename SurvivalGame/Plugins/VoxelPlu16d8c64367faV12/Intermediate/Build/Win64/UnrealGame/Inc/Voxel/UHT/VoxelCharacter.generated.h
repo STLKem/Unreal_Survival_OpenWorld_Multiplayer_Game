@@ -1,0 +1,62 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "VoxelCharacter.h"
+
+#ifdef VOXEL_VoxelCharacter_generated_h
+#error "VoxelCharacter.generated.h already included, missing '#pragma once' in VoxelCharacter.h"
+#endif
+#define VOXEL_VoxelCharacter_generated_h
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
+// ********** Begin Class AVoxelCharacter **********************************************************
+VOXEL_API UClass* Z_Construct_UClass_AVoxelCharacter_NoRegister();
+
+#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_VoxelPro_Source_Voxel_Public_VoxelCharacter_h_12_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAVoxelCharacter(); \
+	friend struct Z_Construct_UClass_AVoxelCharacter_Statics; \
+	static UClass* GetPrivateStaticClass(); \
+	friend VOXEL_API UClass* Z_Construct_UClass_AVoxelCharacter_NoRegister(); \
+public: \
+	DECLARE_CLASS2(AVoxelCharacter, ACharacter, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/Voxel"), Z_Construct_UClass_AVoxelCharacter_NoRegister) \
+	DECLARE_SERIALIZER(AVoxelCharacter)
+
+
+#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_VoxelPro_Source_Voxel_Public_VoxelCharacter_h_12_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API AVoxelCharacter(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	/** Deleted move- and copy-constructors, should never be used */ \
+	AVoxelCharacter(AVoxelCharacter&&) = delete; \
+	AVoxelCharacter(const AVoxelCharacter&) = delete; \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AVoxelCharacter); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVoxelCharacter); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AVoxelCharacter) \
+	NO_API virtual ~AVoxelCharacter();
+
+
+#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_VoxelPro_Source_Voxel_Public_VoxelCharacter_h_9_PROLOG
+#define FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_VoxelPro_Source_Voxel_Public_VoxelCharacter_h_12_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_VoxelPro_Source_Voxel_Public_VoxelCharacter_h_12_INCLASS_NO_PURE_DECLS \
+	FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_VoxelPro_Source_Voxel_Public_VoxelCharacter_h_12_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+class AVoxelCharacter;
+
+// ********** End Class AVoxelCharacter ************************************************************
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_build_U5M_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_VoxelPro_Source_Voxel_Public_VoxelCharacter_h
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

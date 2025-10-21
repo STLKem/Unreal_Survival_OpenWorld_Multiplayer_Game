@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\voxelexamples\\module.voxelexamples.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\voxelexamples\\definitions.voxelexamples.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\unrealeditor\\inc\\voxelexamples\\uht\\voxelexamples.init.gen.cpp",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\unrealeditor\\inc\\voxelexamples\\uht\\voxelexamplesmodule.gen.cpp",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxelexamples\\public\\voxelexamplesmodule.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\unrealeditor\\inc\\voxelexamples\\uht\\voxelexamplesmodule.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\voxelexamples\\permoduleinline.gen.cpp",
+            "d:\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

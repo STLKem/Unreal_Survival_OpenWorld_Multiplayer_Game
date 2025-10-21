@@ -1,0 +1,41 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxeleditor\\private\\details\\voxelspawneroutputnamecustomization.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\voxeleditor\\definitions.voxeleditor.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxeleditor\\private\\details\\voxelspawneroutputnamecustomization.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelminimal.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxellog.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelstats.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeldefinitions.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeluserdefinitions.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeldebug.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelengineversionhelpers.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelmacros.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelsharedptr.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeldelegatehelpers.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelcontainers\\nogrowarray.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialrenderproxy.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxeleditor\\private\\voxeleditordetailsutilities.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelspawners\\voxelspawnerconfig.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelenums.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\unrealeditor\\inc\\voxel\\uht\\voxelenums.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\unrealeditor\\inc\\voxel\\uht\\voxelspawnerconfig.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelspawners\\voxelspawneroutputsconfig.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\unrealeditor\\inc\\voxel\\uht\\voxelspawneroutputsconfig.generated.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\detailwidgetrow.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\idetailpropertyrow.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\detailcategorybuilder.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\idetailcustomnodebuilder.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\detailbuildertypes.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\propertyeditorcopypaste.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\ipropertyutilities.h",
+            "d:\\ue_5.6\\engine\\source\\editor\\propertyeditor\\public\\detaillayoutbuilder.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

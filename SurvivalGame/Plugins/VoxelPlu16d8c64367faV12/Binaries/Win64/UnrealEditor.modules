@@ -1,0 +1,13 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"Voxel": "UnrealEditor-Voxel.dll",
+		"VoxelEditor": "UnrealEditor-VoxelEditor.dll",
+		"VoxelEditorDefault": "UnrealEditor-VoxelEditorDefault.dll",
+		"VoxelExamples": "UnrealEditor-VoxelExamples.dll",
+		"VoxelGraph": "UnrealEditor-VoxelGraph.dll",
+		"VoxelGraphEditor": "UnrealEditor-VoxelGraphEditor.dll",
+		"VoxelHelpers": "UnrealEditor-VoxelHelpers.dll"
+	}
+}

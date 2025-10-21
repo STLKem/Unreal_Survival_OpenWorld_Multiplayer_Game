@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VoxelExamples.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Intermediate/Build/Win64/x64/ProjectDeliveryHellEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelExamples/Module.VoxelExamples.cpp.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelExamples/VoxelExamplesModule.cpp.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelExamples/VoxelGeneratorExample.cpp.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelExamples/Default.rc2.res"
+/OUT:"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelExamples/UnrealEditor-VoxelExamples.lib"

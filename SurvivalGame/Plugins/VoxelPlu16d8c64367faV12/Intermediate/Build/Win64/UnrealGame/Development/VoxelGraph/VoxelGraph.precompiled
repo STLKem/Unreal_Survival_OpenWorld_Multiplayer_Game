@@ -1,0 +1,12 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\VoxelGraph\\Module.VoxelGraph.1.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\VoxelGraph\\Module.VoxelGraph.2.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\VoxelGraph\\Module.VoxelGraph.3.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\VoxelGraph\\Module.VoxelGraph.4.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\VoxelGraph\\Module.VoxelGraph.5.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\VoxelGraph\\Module.VoxelGraph.6.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\VoxelGraph\\Module.VoxelGraph.7.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\VoxelGraph\\Module.VoxelGraph.8.cpp.obj"
+	]
+}

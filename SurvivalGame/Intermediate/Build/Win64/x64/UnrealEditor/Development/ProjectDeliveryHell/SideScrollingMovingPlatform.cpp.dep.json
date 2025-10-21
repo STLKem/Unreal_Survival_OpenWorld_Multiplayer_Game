@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\variant_sidescrolling\\gameplay\\sidescrollingmovingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectdeliveryhell\\definitions.projectdeliveryhell.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\variant_sidescrolling\\gameplay\\sidescrollingmovingplatform.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\variant_sidescrolling\\interfaces\\sidescrollinginteractable.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\sidescrollinginteractable.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\sidescrollingmovingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

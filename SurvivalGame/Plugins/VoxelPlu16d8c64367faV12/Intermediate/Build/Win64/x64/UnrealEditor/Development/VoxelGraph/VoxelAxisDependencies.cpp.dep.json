@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxelgraph\\private\\voxelaxisdependencies.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\voxelgraph\\definitions.voxelgraph.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxelgraph\\public\\voxelaxisdependencies.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\unrealeditor\\inc\\voxelgraph\\uht\\voxelaxisdependencies.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.1.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.2.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.3.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.4.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.5.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.6.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.7.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.8.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.9.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.10.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.11.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.12.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.13.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.14.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\Voxel\\Module.Voxel.15.cpp.obj"
+	]
+}

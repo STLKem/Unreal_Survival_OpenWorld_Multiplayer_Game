@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\p4vclientmyfiles\\projecttowerp4v\\source\\projectdeliveryhell\\private\\craftingtable.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\p4vclientmyfiles\\projecttowerp4v\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\p4vclientmyfiles\\projecttowerp4v\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectdeliveryhell\\definitions.projectdeliveryhell.h",
+            "d:\\p4vclientmyfiles\\projecttowerp4v\\source\\projectdeliveryhell\\public\\craftingtable.h",
+            "d:\\p4vclientmyfiles\\projecttowerp4v\\source\\projectdeliveryhell\\myown_h_files\\itemrecipes.h",
+            "d:\\p4vclientmyfiles\\projecttowerp4v\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\itemrecipes.generated.h",
+            "d:\\p4vclientmyfiles\\projecttowerp4v\\source\\projectdeliveryhell\\public\\maininteractinterface.h",
+            "d:\\p4vclientmyfiles\\projecttowerp4v\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\maininteractinterface.generated.h",
+            "d:\\p4vclientmyfiles\\projecttowerp4v\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\craftingtable.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

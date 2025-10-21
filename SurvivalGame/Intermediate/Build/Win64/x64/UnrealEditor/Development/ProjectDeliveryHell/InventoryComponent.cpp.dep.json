@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\private\\inventorycomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectdeliveryhell\\definitions.projectdeliveryhell.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\public\\inventorycomponent.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\myown_h_files\\inventoryslot.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\inventoryslot.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\myown_h_files\\itemrecipes.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\itemrecipes.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\inventorycomponent.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\net\\core\\public\\net\\core\\propertyconditions\\propertyconditions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VoxelHelpers.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Intermediate/Build/Win64/x64/ProjectDeliveryHellEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelHelpers/Module.VoxelHelpers.cpp.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelHelpers/MaterialExpressionBlendMaterialAttributesBarycentric.cpp.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelHelpers/MaterialExpressionPack.cpp.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelHelpers/VoxelColorWheel.cpp.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelHelpers/VoxelHelpersLibrary.cpp.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelHelpers/VoxelHelpersModule.cpp.obj"
+"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelHelpers/Default.rc2.res"
+/OUT:"D:/CopyForTestingSPESIALworldGeneration_V2_VocselPremium/Plugins/VoxelPlu16d8c64367faV12/Intermediate/Build/Win64/x64/UnrealEditor/Development/VoxelHelpers/UnrealEditor-VoxelHelpers.lib"

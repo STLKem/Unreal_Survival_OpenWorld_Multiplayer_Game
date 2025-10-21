@@ -1,0 +1,19 @@
+{
+	"SourceFiles": [
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Source\\GeneratedWorldGenerators\\GeneratedWorldGenerators.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Source\\ProjectDeliveryHell\\ProjectDeliveryHell.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Plugins\\VoxelPlu16d8c64367faV12\\Source\\ThirdParty\\VoxelEmbree3\\VoxelEmbree3.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Plugins\\VoxelPlu16d8c64367faV12\\Source\\VoxelEditorDefault\\VoxelEditorDefault.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Plugins\\VoxelPlu16d8c64367faV12\\Source\\VoxelEditor\\VoxelEditor.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Plugins\\VoxelPlu16d8c64367faV12\\Source\\VoxelExamples\\VoxelExamples.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Plugins\\VoxelPlu16d8c64367faV12\\Source\\VoxelGraphEditor\\VoxelGraphEditor.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Plugins\\VoxelPlu16d8c64367faV12\\Source\\VoxelGraph\\VoxelGraph.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Plugins\\VoxelPlu16d8c64367faV12\\Source\\VoxelHelpers\\VoxelHelpers.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Plugins\\VoxelPlu16d8c64367faV12\\Source\\Voxel\\Voxel.Build.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Source\\ProjectDeliveryHell.Target.cs",
+		"D:\\CopyForTestingSPESIALworldGeneration_V2_VocselPremium\\Source\\ProjectDeliveryHellEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

@@ -1,0 +1,42 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\private\\voxelmultiplayer\\voxelmultiplayertcp.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\voxel\\definitions.voxel.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelmultiplayer\\voxelmultiplayertcp.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelmultiplayer\\voxelmultiplayerinterfacewithsocket.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelmultiplayer\\voxelmultiplayerinterface.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelvalue.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelminimal.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxellog.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelstats.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeldefinitions.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeluserdefinitions.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeldebug.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelengineversionhelpers.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelmacros.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelsharedptr.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeldelegatehelpers.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelcontainers\\nogrowarray.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialrenderproxy.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelutilities\\voxelbaseutilities.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeldiff.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\unrealeditor\\inc\\voxel\\uht\\voxelmultiplayerinterface.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\unrealeditor\\inc\\voxel\\uht\\voxelmultiplayertcp.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxelmessages.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\sockets\\public\\sockets.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\sockets\\public\\socketsubsystem.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\sockets\\public\\addressinfotypes.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\networking\\public\\common\\tcpsocketbuilder.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\networking\\public\\interfaces\\ipv4\\ipv4address.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\networking\\public\\interfaces\\ipv4\\ipv4subnetmask.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\networking\\public\\interfaces\\ipv4\\ipv4endpoint.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\networking\\public\\common\\tcplistener.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

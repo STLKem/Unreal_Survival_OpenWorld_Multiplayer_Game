@@ -1,0 +1,42 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxelhelpers\\private\\materialexpressionpack.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\voxelhelpers\\definitions.voxelhelpers.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxelhelpers\\public\\materialexpressionpack.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeldefinitions.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\source\\voxel\\public\\voxeluserdefinitions.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\plugins\\voxelplu16d8c64367fav12\\intermediate\\build\\win64\\unrealeditor\\inc\\voxelhelpers\\uht\\materialexpressionpack.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materialcompiler.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressioncollectiontransform.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressioncollectiontransform.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressionspeedtree.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressionspeedtree.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressiontexturesample.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressiontexturebase.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressiontexturebase.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressiontexturesample.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressionlocalposition.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressionlocalposition.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressionworldposition.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressionworldposition.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressiontextureproperty.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressiontextureproperty.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressionviewproperty.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressionviewproperty.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressionreroute.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressionreroutebase.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressionreroutebase.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressionreroute.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressionfunctioninput.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressionfunctioninput.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\public\\materials\\materialexpressionfunctionoutput.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\materialexpressionfunctionoutput.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

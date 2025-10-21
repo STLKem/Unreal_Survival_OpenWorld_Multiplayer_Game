@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\private\\craftingparent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\projectdeliveryhelleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectdeliveryhell\\definitions.projectdeliveryhell.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\public\\craftingparent.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\myown_h_files\\itemrecipes.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\itemrecipes.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\source\\projectdeliveryhell\\public\\maininteractinterface.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\maininteractinterface.generated.h",
+            "d:\\copyfortestingspesialworldgeneration_v2_vocselpremium\\intermediate\\build\\win64\\unrealeditor\\inc\\projectdeliveryhell\\uht\\craftingparent.generated.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "d:\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

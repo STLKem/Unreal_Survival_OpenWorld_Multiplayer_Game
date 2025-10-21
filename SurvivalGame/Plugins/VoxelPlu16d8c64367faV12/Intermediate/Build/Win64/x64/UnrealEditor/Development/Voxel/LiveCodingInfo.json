@@ -1,0 +1,133 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Voxel.1.cpp.obj": [
+			"IVoxelPool.gen.cpp.obj",
+			"Voxel.init.gen.cpp.obj",
+			"VoxelAssetActor.gen.cpp.obj",
+			"VoxelAssetSpawner.gen.cpp.obj",
+			"VoxelAssetTools.gen.cpp.obj",
+			"VoxelBasicMaterialCollection.gen.cpp.obj",
+			"VoxelBasicSpawner.gen.cpp.obj",
+			"VoxelBoolVector.gen.cpp.obj",
+			"VoxelBoxTools.gen.cpp.obj",
+			"VoxelCachedMaterialCollection.gen.cpp.obj"
+		],
+		"Module.Voxel.2.cpp.obj": [
+			"VoxelCharacter.gen.cpp.obj",
+			"VoxelDataAsset.gen.cpp.obj",
+			"VoxelDataItemActor.gen.cpp.obj",
+			"VoxelDataTools.gen.cpp.obj",
+			"VoxelDebugUtilities.gen.cpp.obj"
+		],
+		"Module.Voxel.3.cpp.obj": [
+			"VoxelDisableEditsBox.gen.cpp.obj",
+			"VoxelEditorDelegatesInterface.gen.cpp.obj",
+			"VoxelEmptyGenerator.gen.cpp.obj",
+			"VoxelEnums.gen.cpp.obj",
+			"VoxelErosion.gen.cpp.obj",
+			"VoxelFastNoiseBase.gen.cpp.obj",
+			"VoxelFlatGenerator.gen.cpp.obj",
+			"VoxelFlattenTool.gen.cpp.obj",
+			"VoxelGenerator.gen.cpp.obj",
+			"VoxelGeneratorCache.gen.cpp.obj",
+			"VoxelGeneratorInit.gen.cpp.obj",
+			"VoxelGeneratorInstanceWrapper.gen.cpp.obj",
+			"VoxelGeneratorParameters.gen.cpp.obj",
+			"VoxelGeneratorPicker.gen.cpp.obj",
+			"VoxelGeneratorTools.gen.cpp.obj"
+		],
+		"Module.Voxel.4.cpp.obj": [
+			"VoxelHeightmapAsset.gen.cpp.obj",
+			"VoxelHierarchicalInstancedStaticMeshComponent.gen.cpp.obj",
+			"VoxelInstancedMaterialCollection.gen.cpp.obj",
+			"VoxelInstancedMeshSettings.gen.cpp.obj",
+			"VoxelIntBox.gen.cpp.obj",
+			"VoxelIntBoxLibrary.gen.cpp.obj",
+			"VoxelInvokerComponent.gen.cpp.obj",
+			"VoxelInvokerSettings.gen.cpp.obj",
+			"VoxelLandscapeImporter.gen.cpp.obj"
+		],
+		"Module.Voxel.5.cpp.obj": [
+			"VoxelLandscapeMaterialCollection.gen.cpp.obj",
+			"VoxelLevelTool.gen.cpp.obj",
+			"VoxelLevelTools.gen.cpp.obj",
+			"VoxelLineBatchComponent.gen.cpp.obj",
+			"VoxelLODMaterials.gen.cpp.obj",
+			"VoxelMaterial.gen.cpp.obj",
+			"VoxelMaterialCollectionBase.gen.cpp.obj",
+			"VoxelMaterialExpressions.gen.cpp.obj",
+			"VoxelMaterialIndices.gen.cpp.obj",
+			"VoxelMathLibrary.gen.cpp.obj",
+			"VoxelMeshConfig.gen.cpp.obj",
+			"VoxelMeshImporter.gen.cpp.obj",
+			"VoxelMeshSpawner.gen.cpp.obj",
+			"VoxelMeshTool.gen.cpp.obj",
+			"VoxelMultiplayerInterface.gen.cpp.obj",
+			"VoxelMultiplayerTcp.gen.cpp.obj"
+		],
+		"Module.Voxel.6.cpp.obj": [
+			"VoxelNoClippingComponent.gen.cpp.obj",
+			"VoxelObjectArchive.gen.cpp.obj",
+			"VoxelPaintMaterial.gen.cpp.obj",
+			"VoxelPhysics.gen.cpp.obj",
+			"VoxelPhysicsPartSpawner.gen.cpp.obj",
+			"VoxelPhysicsPartSpawnerInterface.gen.cpp.obj",
+			"VoxelPhysicsRelevancyComponent.gen.cpp.obj",
+			"VoxelPlaceableItemActor.gen.cpp.obj",
+			"VoxelPlaceableItemActorHelper.gen.cpp.obj",
+			"VoxelPlaceableItemManager.gen.cpp.obj",
+			"VoxelPlaceableItemsUtilities.gen.cpp.obj",
+			"VoxelPrimitiveComponentSettings.gen.cpp.obj"
+		],
+		"Module.Voxel.7.cpp.obj": [
+			"VoxelProceduralMeshComponent.gen.cpp.obj",
+			"VoxelProjectionTools.gen.cpp.obj",
+			"VoxelRange.gen.cpp.obj",
+			"VoxelRevertTool.gen.cpp.obj",
+			"VoxelSave.gen.cpp.obj",
+			"VoxelSaveUtilities.gen.cpp.obj",
+			"VoxelSettings.gen.cpp.obj",
+			"VoxelSmoothTool.gen.cpp.obj",
+			"VoxelSpawner.gen.cpp.obj",
+			"VoxelSpawnerActor.gen.cpp.obj",
+			"VoxelSpawnerConfig.gen.cpp.obj",
+			"VoxelSpawnerGroup.gen.cpp.obj"
+		],
+		"Module.Voxel.8.cpp.obj": [
+			"VoxelSpawnerOutputsConfig.gen.cpp.obj",
+			"VoxelSphereTool.gen.cpp.obj",
+			"VoxelSphereToolBase.gen.cpp.obj",
+			"VoxelStaticWorld.gen.cpp.obj",
+			"VoxelSurfaceEdits.gen.cpp.obj",
+			"VoxelSurfaceEditTools.gen.cpp.obj",
+			"VoxelSurfaceTool.gen.cpp.obj",
+			"VoxelSurfaceTools.gen.cpp.obj",
+			"VoxelTestLibrary.gen.cpp.obj",
+			"VoxelTexture.gen.cpp.obj",
+			"VoxelTextureTools.gen.cpp.obj",
+			"VoxelTool.gen.cpp.obj"
+		],
+		"Module.Voxel.9.cpp.obj": [
+			"VoxelToolBase.gen.cpp.obj",
+			"VoxelToolLibary.gen.cpp.obj",
+			"VoxelToolManager.gen.cpp.obj",
+			"VoxelToolsBase.gen.cpp.obj",
+			"VoxelToolWithAlignment.gen.cpp.obj",
+			"VoxelTrimTool.gen.cpp.obj",
+			"VoxelWorld.gen.cpp.obj"
+		],
+		"Module.Voxel.10.cpp.obj": [
+			"VoxelWorldCreateInfo.gen.cpp.obj",
+			"VoxelWorldInterface.gen.cpp.obj",
+			"VoxelWorldRootComponent.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj"
+		],
+		"Module.Voxel.11.cpp.obj": [
+			"VoxelBlueprintLibrary.gen.cpp.obj"
+		],
+		"Module.Voxel.12.cpp.obj": [
+			"VoxelSphereTools.gen.cpp.obj"
+		]
+	}
+}
