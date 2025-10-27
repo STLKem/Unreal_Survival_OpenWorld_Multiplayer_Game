@@ -44,6 +44,23 @@ And much MORE
 
 ---
 
+🛠️ Tech Stack
+
+Engine: Unreal Engine 5
+
+Language: Blueprint (and partial C++ integration planned)
+
+Plugins: Voxel Plugin, Online Subsystem Steam
+
+---
+
+🎯 Goals
+
+To create a fully functional survival sandbox multiplayer experience, scalable for future open-world expansion, cooperative gameplay, and AI-driven environments.
+
+---
+
+
 ## 🖼️ Screenshots
 *(Images from `/Docs/`)*
 
@@ -58,16 +75,3 @@ And much MORE
 
 ---
 
-🛠️ Tech Stack
-
-Engine: Unreal Engine 5
-
-Language: Blueprint (and partial C++ integration planned)
-
-Plugins: Voxel Plugin, Online Subsystem Steam
-
----
-
-🎯 Goals
-
-To create a fully functional survival sandbox multiplayer experience, scalable for future open-world expansion, cooperative gameplay, and AI-driven environments.
