@@ -48,7 +48,7 @@ And much MORE
 
 Engine: Unreal Engine 5
 
-Language: Blueprint (and partial C++ integration planned)
+Language: C++ and Blueprint
 
 Plugins: Voxel Plugin, Online Subsystem Steam
 
